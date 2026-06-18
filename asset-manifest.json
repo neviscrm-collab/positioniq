@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/positioniq/static/css/main.b52d43a6.css",
+    "main.js": "/positioniq/static/js/main.ba975958.js",
+    "static/js/453.a02cd80e.chunk.js": "/positioniq/static/js/453.a02cd80e.chunk.js",
+    "index.html": "/positioniq/index.html",
+    "main.b52d43a6.css.map": "/positioniq/static/css/main.b52d43a6.css.map",
+    "main.ba975958.js.map": "/positioniq/static/js/main.ba975958.js.map",
+    "453.a02cd80e.chunk.js.map": "/positioniq/static/js/453.a02cd80e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b52d43a6.css",
+    "static/js/main.ba975958.js"
+  ]
+}
